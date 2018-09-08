@@ -1,0 +1,8 @@
+contextlib2==0.5.5
+decorator==4.3.0
+graphviz==0.9
+networkx==2.1
+numpy==1.15.1
+pyro-ppl==0.2.1
+six==1.11.0
+torch==0.4.1
